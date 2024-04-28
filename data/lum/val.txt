@@ -1,0 +1,1520 @@
+James B-PERSON
+Nabutayi L-PERSON
+Buwanyanga U-LOCATION
+
+Masaba U-PERSON
+
+Wameli U-PERSON
+ibwamanyanga B-LOCATION
+wa I-LOCATION
+Uganda L-LOCATION
+
+Masette? U-PERSON
+
+Rivaldo U-PERSON
+timu B-ORG
+ye I-ORG
+Brazil L-ORG
+
+Ruhakana B-PERSON
+Rugunda L-PERSON
+gavumenti B-ORG
+ya I-ORG
+UPC L-ORG
+
+Ponsiano B-PERSON
+Lwakataka L-PERSON
+
+Uganda U-LOCATION
+Nabbanja B-PERSON
+Robinah? L-PERSON
+
+Mabonga U-PERSON
+Mujasi U-PERSON
+
+Connie U-PERSON
+
+Nangoye? U-PERSON
+
+Amama B-PERSON
+Mbabazi L-PERSON
+Mumwesi B-DATE
+kwe I-DATE
+khasesaba L-DATE
+prime B-USERID
+minister I-USERID
+wa I-USERID
+Uganda L-USERID
+
+Lydia B-PERSON
+Watuulo L-PERSON
+Nabumali B-ORG
+high L-ORG
+
+Namukobe U-PERSON
+
+Nia B-PERSON
+Wegoye L-PERSON
+Nabumali B-ORG
+high L-ORG
+Weogoye B-PERSON
+Samwiri L-PERSON
+
+Mc B-PERSON
+Mackinsy L-PERSON
+
+Yona B-PERSON
+okoth L-PERSON
+district B-LOCATION
+ye I-LOCATION
+Tororo L-LOCATION
+Bukedi U-LOCATION
+
+Wonami U-PERSON
+
+Besigye U-PERSON
+Winnie U-PERSON
+Anselm U-PERSON
+
+Aki B-PERSON
+bua L-PERSON
+
+Massa U-PERSON
+Bududa U-LOCATION
+Uganda B-ORG
+cranes L-ORG
+
+Christiano U-PERSON
+
+Mujasi U-PERSON
+Museveni U-PERSON
+
+wonekha U-PERSON
+
+wapakhabulo U-PERSON
+Daresalaam B-ORG
+University L-ORG
+Tanzania U-LOCATION
+
+Wambewo U-PERSON
+Uganda U-LOCATION
+Dubai U-LOCATION
+
+Paapa B-PERSON
+paulo L-PERSON
+
+Museveni U-PERSON
+
+Kony U-PERSON
+
+Russia U-LOCATION
+Ukraine U-LOCATION
+Peter B-PERSON
+Anderson L-PERSON
+CNN U-ORG
+
+Orombi U-PERSON
+
+Edisa B-PERSON
+Buteme L-PERSON
+
+Rita B-PERSON
+Namono L-PERSON
+
+2001-2004 U-DATE
+1996-1998 U-DATE
+ndekeresana B-ORG
+ye I-ORG
+kamanambo L-ORG
+
+Miss B-ORG
+Africa L-ORG
+
+
+
+Rhema B-PERSON
+Namakula L-PERSON
+Kenzo U-PERSON
+
+Daudi U-PERSON
+
+Mbulante U-PERSON
+
+Nelima U-PERSON
+
+Among U-PERSON
+police B-ORG
+ye I-ORG
+uganda L-ORG
+
+Lynda B-PERSON
+Dane L-PERSON
+NTV U-ORG
+
+Mbabazi U-PERSON
+Kalya B-PERSON
+sausage L-PERSON
+
+Mubuya U-PERSON
+mu B-LOCATION
+sirmba I-LOCATION
+I I-LOCATION
+Mbale L-LOCATION
+
+Sansa U-PERSON
+
+Nekesa U-PERSON
+busilamu U-NORP
+
+Mulekwa U-PERSON
+
+Hamis B-PERSON
+Kigundu L-PERSON
+Museveni U-PERSON
+
+Khiisa U-PERSON
+
+airtel U-ORG
+
+Ruparelia U-PERSON
+baanka U-ORG
+mwikayilo B-ORG
+likhulu I-ORG
+lya I-ORG
+Uganda L-ORG
+
+Besigye U-PERSON
+Mumiko B-DATE
+kituma I-DATE
+kabili L-DATE
+
+Nambeshe U-PERSON
+palamenti U-ORG
+balaza U-DATE
+
+New B-ORG
+vision L-ORG
+Uganda U-LOCATION
+Don B-PERSON
+Wanyama L-PERSON
+
+Ssebutinde U-PERSON
+
+Stephen B-PERSON
+kazzimba L-PERSON
+pulostant U-NORP
+
+Bob B-PERSON
+Mushikori L-PERSON
+mumbuka B-DATE
+ya I-DATE
+covid I-DATE
+wa I-DATE
+khabili L-DATE
+Umukuka U-USERID
+ba B-NORP
+masaba L-NORP
+
+Nagginda U-PERSON
+Nagginda U-PERSON
+
+Watuulo B-PERSON
+Richard L-PERSON
+lekelo B-ORG
+lye I-ORG
+angaki I-ORG
+lye I-ORG
+Kyambogo L-ORG
+
+palamenti U-ORG
+Kibule U-PERSON
+
+Francis B-PERSON
+Ayume L-PERSON
+Makerere U-ORG
+Uganda U-LOCATION
+
+Manafwa B-ORG
+HC4 L-ORG
+umusawu B-PERSON
+Muzungu I-PERSON
+Katisi L-PERSON
+
+Wekono U-PERSON
+
+Uganda B-ORG
+premier I-ORG
+league L-ORG
+Henry B-PERSON
+Massa L-PERSON
+KCCA U-ORG
+
+Ruhakana B-PERSON
+Rugunda L-PERSON
+gavumenti B-ORG
+ya I-ORG
+UPC L-ORG
+
+Nambuya U-PERSON
+
+Mukhangi U-PERSON
+Nakawa U-LOCATION
+
+John B-PERSON
+Garang L-PERSON
+sudan U-LOCATION
+1962 U-DATE
+
+Nambwila? U-PERSON
+
+Uganda U-LOCATION
+Mayika U-PERSON
+Busia U-LOCATION
+
+banaUganda U-NORP
+Amama U-PERSON
+
+Brenda U-PERSON
+
+Namono U-PERSON
+
+Amina? U-PERSON
+
+Elisha U-PERSON
+
+Richard B-PERSON
+Ssetuba L-PERSON
+
+Asimwe U-PERSON
+
+Nambuya U-PERSON
+
+Wetaya U-PERSON
+
+Nabende U-PERSON
+
+Wandubile U-PERSON
+
+Nabutanyi U-PERSON
+Nandala B-PERSON
+Mafabi L-PERSON
+
+Menya U-PERSON
+
+Muhoozi U-PERSON
+
+Jennifer U-PERSON
+mwilekelo B-ORG
+lye I-ORG
+Makerere L-ORG
+
+Sudhir U-PERSON
+Uganda U-LOCATION
+1932 U-DATE
+mwiko B-DATE
+1908 L-DATE
+
+Nyanzi U-PERSON
+Ssemusu U-PERSON
+
+Joel B-PERSON
+Ssenyonyi L-PERSON
+NTV U-ORG
+
+Matokota U-PERSON
+
+Walusimbi? U-PERSON
+
+Kenya U-LOCATION
+Anite U-PERSON
+Uganda U-LOCATION
+
+Ssentongo B-PERSON
+Ibrahim L-PERSON
+
+Akello B-PERSON
+Justine L-PERSON
+mwilekelo B-ORG
+lya I-ORG
+Nabuyonga I-ORG
+Primary L-ORG
+sirimba B-LOCATION
+I I-LOCATION
+Mbale L-LOCATION
+
+Nambuya? U-PERSON
+
+Namatovu U-PERSON
+
+Ssenyonyi U-PERSON
+UCU U-ORG
+
+Frank B-PERSON
+Tumwebaze L-PERSON
+Muhoozi U-PERSON
+
+Hillary B-PERSON
+Clinton L-PERSON
+Obama U-PERSON
+
+Apollo B-PERSON
+nyagamahe L-PERSON
+
+National B-NORP
+Resistance I-NORP
+Army L-NORP
+Museveni U-PERSON
+imurwe B-LOCATION
+wa I-LOCATION
+Uganda L-LOCATION
+
+Wadada U-PERSON
+
+Lukwago B-PERSON
+Erias L-PERSON
+DP U-NORP
+FDC U-NORP
+
+Henry B-PERSON
+Okello I-PERSON
+Oryem L-PERSON
+
+Wafutu U-PERSON
+
+Hassan U-PERSON
+Kenya U-LOCATION
+
+Bishop B-PERSON
+Hannington L-PERSON
+Uganda U-LOCATION
+
+Yona B-PERSON
+Okoth L-PERSON
+Bukedi U-LOCATION
+
+Arnold B-PERSON
+Swatzneger L-PERSON
+
+Clarke U-PERSON
+South B-LOCATION
+Sudan L-LOCATION
+
+Can B-PERSON
+Wakilo L-PERSON
+Obote U-PERSON
+gavumenti U-ORG
+
+Amongin U-PERSON
+Radio B-ORG
+One L-ORG
+
+Miki B-PERSON
+Wine L-PERSON
+
+Katrina U-PERSON
+
+Namugogngo U-LOCATION
+Luke B-PERSON
+Owoyesigyire L-PERSON
+
+Lukwago U-PERSON
+palamenti U-ORG
+sirimba B-LOCATION
+sye I-LOCATION
+Kampala L-LOCATION
+sirimba B-LOCATION
+sye I-LOCATION
+kampala L-LOCATION
+
+Bob B-PERSON
+Mushikori L-PERSON
+umukuka B-USERID
+we I-USERID
+sikuka I-USERID
+sye I-USERID
+masaba L-USERID
+mumwiko B-DATE
+2021 I-DATE
+nga I-DATE
+4 I-DATE
+kumwesi I-DATE
+kwa I-DATE
+january L-DATE
+
+Dwelling B-ORG
+places L-ORG
+Najjuko U-PERSON
+Mulago U-ORG
+
+Nandala B-PERSON
+Mafabi L-PERSON
+
+naUganda U-NORP
+Byabakama? U-PERSON
+
+Naphtali B-PERSON
+Kokonya L-PERSON
+
+Waiswa B-PERSON
+Mufumbiro L-PERSON
+
+Wetsamusi U-PERSON
+
+Matali U-PERSON
+
+Ssewanyana U-PERSON
+
+Musinguzi U-PERSON
+district B-LOCATION
+ye I-LOCATION
+Rubirizi L-LOCATION
+mumwiko B-DATE
+1973 L-DATE
+
+Doreen B-PERSON
+Nyanjura L-PERSON
+
+Nabulo U-PERSON
+
+Rock B-PERSON
+Giant L-PERSON
+umwimbi U-NORP
+
+Kenya U-LOCATION
+Ruto U-PERSON
+Azimio U-PERSON
+Kenya U-LOCATION
+
+Ssemwogerere U-PERSON
+
+Isaiah B-PERSON
+Katumwa L-PERSON
+
+Specioza B-PERSON
+Nambi L-PERSON
+Sylvia B-PERSON
+Nabakoza L-PERSON
+Namugongo U-LOCATION
+
+Besigye U-PERSON
+
+Nambozo U-PERSON
+Nandutu U-PERSON
+buzungu U-NORP
+bakisu U-NORP
+
+Irene B-PERSON
+Namubiru L-PERSON
+
+Cherop U-PERSON
+
+palamenti U-ORG
+
+Musisi U-PERSON
+1985-1992 U-DATE
+itiimu B-ORG
+ya I-ORG
+SC I-ORG
+Villa L-ORG
+
+Benard B-PERSON
+Elly I-PERSON
+Mujasi L-PERSON
+mumasaba U-NORP
+sibina B-NORP
+sya I-NORP
+NRM? L-NORP
+
+Wamaluku U-PERSON
+
+Joe B-PERSON
+Biden L-PERSON
+America U-LOCATION
+
+Byanyima U-PERSON
+Museveni U-PERSON
+
+Richard B-PERSON
+Tadwong L-PERSON
+Bobi U-PERSON
+
+Malema U-PERSON
+south B-LOCATION
+Africa L-LOCATION
+
+Tumwine U-PERSON
+
+Malinda U-PERSON
+Namutosi U-PERSON
+
+Watilingongo U-PERSON
+
+Uganda B-NORP
+People`s I-NORP
+Democratic I-NORP
+movement L-NORP
+Museveni U-PERSON
+
+Wandulu? U-PERSON
+
+Human B-ORG
+rights I-ORG
+commision L-ORG
+khulu B-LOCATION
+kingi I-LOCATION
+Nakasero L-LOCATION
+Mariam B-PERSON
+Fauzat I-PERSON
+Wangadya L-PERSON
+
+Seera? U-PERSON
+
+Somalia U-LOCATION
+Paddy B-PERSON
+Ankunda L-PERSON
+banamaye U-NORP
+
+Dr B-PERSON
+Ian I-PERSON
+Clarke L-PERSON
+IHK U-ORG
+
+Melinda U-PERSON
+Bill B-PERSON
+Gates L-PERSON
+
+Ssemakula B-PERSON
+Mesarch L-PERSON
+Eagles B-ORG
+production L-ORG
+
+Nelson B-PERSON
+mandela L-PERSON
+mumwiko B-DATE
+1918 L-DATE
+syalo B-LOCATION
+Mvezo I-LOCATION
+mu I-LOCATION
+south I-LOCATION
+Africa L-LOCATION
+
+Kaana U-PERSON
+
+David B-PERSON
+hughes L-PERSON
+Uganda U-LOCATION
+Kumukhoosi B-LOCATION
+kwe I-LOCATION
+Ntebbe L-LOCATION
+ibulaya U-LOCATION
+
+Patricia U-PERSON
+
+Moses B-PERSON
+Golola L-PERSON
+Butabika U-ORG
+
+Mutebile U-PERSON
+Uganda U-LOCATION
+
+Wamatabu U-PERSON
+
+Uganda U-LOCATION
+Dubai U-LOCATION
+Kharunda U-PERSON
+
+Aceng U-PERSON
+
+Yona B-PERSON
+Okoth L-PERSON
+Kanisa B-ORG
+ya I-ORG
+Uganda L-ORG
+1984 U-DATE
+1995 U-DATE
+
+Musuguya U-PERSON
+Anglican U-NORP
+Buganda U-LOCATION
+
+Lucky B-PERSON
+Dube L-PERSON
+South B-LOCATION
+Africa L-LOCATION
+mumwiko B-DATE
+2007 L-DATE
+
+Uganda U-LOCATION
+Kabaka B-PERSON
+Mutesa L-PERSON
+Baganda U-NORP
+bacholi U-NORP
+ba B-NORP
+lango L-NORP
+
+Wetsamusi U-PERSON
+
+Faisal U-PERSON
+
+Kisibo U-PERSON
+Uganda U-LOCATION
+
+Barbie B-PERSON
+Kaygulanyi L-PERSON
+Bobi B-PERSON
+wine L-PERSON
+
+Uganda B-ORG
+premier I-ORG
+league L-ORG
+Ibrahim U-PERSON
+
+Winnie B-PERSON
+Byanyima L-PERSON
+Besigye U-PERSON
+Anselm U-PERSON
+
+Khaitsa U-PERSON
+
+Wajackoya U-PERSON
+Kenya U-LOCATION
+
+Ochola B-PERSON
+Okoth L-PERSON
+
+Joel B-PERSON
+Mbonye L-PERSON
+
+Chris B-PERSON
+Ocamuringa L-PERSON
+
+Salama U-PERSON
+
+Nyagamahe U-PERSON
+NRM U-NORP
+district B-LOCATION
+ya I-LOCATION
+Rukiga L-LOCATION
+
+Brid B-PERSON
+Gen I-PERSON
+David I-PERSON
+Muhoozi L-PERSON
+
+Namutebi U-PERSON
+
+Byabakama U-PERSON
+
+Namono U-PERSON
+Kampala U-LOCATION
+
+Natindi U-PERSON
+
+Khabusi? U-PERSON
+
+EFF U-NORP
+Mandla B-PERSON
+Shikwambana L-PERSON
+
+Khabusi U-PERSON
+
+Ayume U-PERSON
+1962 U-DATE
+2004 U-DATE
+
+YY U-ORG
+Nabiswa U-LOCATION
+imbala U-LOCATION
+
+Masette B-PERSON
+Kuuya L-PERSON
+
+wapakhabulo U-PERSON
+Daresalaam B-ORG
+University L-ORG
+Tanzania U-LOCATION
+
+Tamale B-PERSON
+Mirundi L-PERSON
+
+Nanzala U-PERSON
+
+Waiswa B-PERSON
+Mufumbiro L-PERSON
+
+Matanda U-PERSON
+
+Masette U-PERSON
+
+Mariam U-PERSON
+kumwiko B-DATE
+sikana I-DATE
+sitwela I-DATE
+bimya I-DATE
+syenda I-DATE
+kamakhumi I-DATE
+syenda I-DATE
+nabirano L-DATE
+
+Mujasi B-PERSON
+Benard L-PERSON
+
+Mulongo U-PERSON
+
+National B-NORP
+Resistance I-NORP
+Army L-NORP
+Rwigyema U-PERSON
+birimba B-LOCATION
+bibyerama I-LOCATION
+imurwe I-LOCATION
+wa I-LOCATION
+Uganda L-LOCATION
+
+Namyeka? U-PERSON
+
+Idi B-PERSON
+Amin L-PERSON
+mumwiko B-DATE
+1925 L-DATE
+
+Manafwa B-ORG
+HC4 L-ORG
+umusawu B-PERSON
+Muzungu I-PERSON
+Katisi L-PERSON
+
+Nabulo U-PERSON
+sirimba B-LOCATION
+sye I-LOCATION
+Mbale L-LOCATION
+
+Patience B-PERSON
+Rwabogo L-PERSON
+Museveni U-PERSON
+
+Masalu U-PERSON
+
+Charles B-PERSON
+Mugera L-PERSON
+
+Kooko B-PERSON
+nasilu L-PERSON
+elgon U-LOCATION
+
+Jennifer B-PERSON
+Musisi L-PERSON
+Buddo U-ORG
+mwilekelo B-ORG
+lye I-ORG
+Tororo I-ORG
+girls L-ORG
+sirimba B-LOCATION
+Kampala L-LOCATION
+
+Ssengendo? U-PERSON
+
+Uganda U-LOCATION
+Museveni U-PERSON
+
+Moses B-PERSON
+Ssali L-PERSON
+Anselm U-PERSON
+
+Peter U-PERSON
+
+Seera U-PERSON
+
+Odrek B-PERSON
+Rwaboogo L-PERSON
+south B-LOCATION
+sudan L-LOCATION
+
+Luther B-PERSON
+Vandros L-PERSON
+
+Nabulwla U-PERSON
+
+Elgon B-ORG
+FM L-ORG
+Mbale U-LOCATION
+Nandala U-PERSON
+
+1986 U-DATE
+linambo B-LOCATION
+lya I-LOCATION
+Uganda L-LOCATION
+Yoweri B-PERSON
+Kaguta I-PERSON
+Museveni L-PERSON
+
+Chris U-PERSON
+
+Nantumbwe B-PERSON
+stella L-PERSON
+umunaUganda U-NORP
+
+Kabogoza U-PERSON
+Buganda U-LOCATION
+
+karamoja U-LOCATION
+Nandutu B-PERSON
+Agnes L-PERSON
+
+Police U-ORG
+Enanga U-PERSON
+
+Wanakina U-PERSON
+ministry B-ORG
+ye I-ORG
+bye I-ORG
+bulimi L-ORG
+
+Kiprop U-PERSON
+Kapchorwa U-LOCATION
+
+Namono U-PERSON
+
+Janet B-PERSON
+Mukwaya L-PERSON
+government U-ORG
+
+Sylvia B-PERSON
+Nagginda L-PERSON
+
+Titus B-PERSON
+Kutosi L-PERSON
+
+Mukhotso U-PERSON
+
+university B-ORG
+ya I-ORG
+California I-ORG
+Berkeley L-ORG
+
+Ntebbe U-LOCATION
+katumba B-PERSON
+Wamala L-PERSON
+
+Africana B-ORG
+hotel L-ORG
+Karamoja U-LOCATION
+
+Seezi B-PERSON
+Mungati L-PERSON
+Namirembe U-LOCATION
+
+Lucky B-PERSON
+Dube L-PERSON
+Africa U-LOCATION
+
+Wakora B-PERSON
+George L-PERSON
+Wakiru U-PERSON
+Ibukoyi U-LOCATION
+bumayina B-LOCATION
+I I-LOCATION
+bukisu L-LOCATION
+
+Salim B-PERSON
+saleh L-PERSON
+Museveni U-PERSON
+
+Ten B-PERSON
+Hag L-PERSON
+
+Mangongo U-PERSON
+
+Hajji B-PERSON
+Musa I-PERSON
+Katongole L-PERSON
+
+Police U-ORG
+Enanga U-PERSON
+
+Muyeti U-PERSON
+university B-ORG
+ya I-ORG
+UCU L-ORG
+
+Aida U-PERSON
+
+Byakama U-PERSON
+Uganda U-LOCATION
+2026 U-DATE
+linambo B-LOCATION
+Uganda L-LOCATION
+
+Kipsiro U-PERSON
+umu B-NORP
+naKenya L-NORP
+
+Aggrey B-PERSON
+Awori L-PERSON
+UPC U-NORP
+gavumenti B-ORG
+ye I-ORG
+NRM L-ORG
+
+Zziwa U-PERSON
+Sudan U-LOCATION
+Russia U-LOCATION
+Somalia U-LOCATION
+
+Kulaigye U-PERSON
+Kasese U-LOCATION
+
+Sam B-PERSON
+Kutesa L-PERSON
+
+Sudhir U-PERSON
+
+Namyeka? U-PERSON
+
+Kharunda U-PERSON
+
+Golola B-PERSON
+moses L-PERSON
+MuTanzania U-NORP
+
+Pande? U-PERSON
+
+Difasi U-PERSON
+
+Kharono U-PERSON
+
+Arnold B-PERSON
+Swatzneger L-PERSON
+
+Wenani U-PERSON
+
+Mbabazi U-PERSON
+Kalya B-PERSON
+sausage L-PERSON
+
+Susan B-PERSON
+Eki L-PERSON
+Uganda U-LOCATION
+
+Kyambogo U-ORG
+Dr B-PERSON
+Watuulo L-PERSON
+Uganda B-ORG
+Christian I-ORG
+University L-ORG
+
+Masika U-PERSON
+Uganda U-LOCATION
+Imbale U-LOCATION
+Friends B-ORG
+Inn L-ORG
+
+Musisi U-PERSON
+umunaUganda U-NORP
+itiimu B-ORG
+ya I-ORG
+Cranes L-ORG
+
+Uganda B-ORG
+airlines L-ORG
+Turyamureba? U-PERSON
+
+Wamukota U-PERSON
+
+Mutesa U-PERSON
+Mutebi U-PERSON
+baganda U-NORP
+
+Timbiti U-PERSON
+
+pulostant U-NORP
+Imbale U-LOCATION
+John B-PERSON
+Nandaah L-PERSON
+
+Nandala B-PERSON
+Mafabi L-PERSON
+
+Walumoli U-PERSON
+
+Wamameli U-PERSON
+
+Kibone U-PERSON
+sawa B-DATE
+tsisesaba L-DATE
+
+
+
+Isah B-PERSON
+Kassim L-PERSON
+Mbale U-LOCATION
+
+Aida B-PERSON
+Nambafu L-PERSON
+bubwaya U-LOCATION
+sisali B-LOCATION
+sye I-LOCATION
+Elgon L-LOCATION
+
+Wamukota? U-PERSON
+
+Sibeke B-PERSON
+David L-PERSON
+baanka B-ORG
+ya I-ORG
+Stanbic L-ORG
+sirimba B-LOCATION
+sye I-LOCATION
+Kampala L-LOCATION
+
+Umwaule B-PERSON
+Masaba L-PERSON
+
+Uganda B-ORG
+cranes L-ORG
+Micho? U-PERSON
+
+Nelson B-PERSON
+Mandela L-PERSON
+Zenani U-PERSON
+Zindziswa U-PERSON
+mwiko B-DATE
+1996 L-DATE
+
+Wavamuno U-PERSON
+Wavah B-ORG
+water L-ORG
+spear B-ORG
+motors L-ORG
+
+Melinda U-PERSON
+Gates U-PERSON
+
+Wamurubu U-PERSON
+
+Patience B-PERSON
+Rwabogo L-PERSON
+Museveni U-PERSON
+
+Agnes B-PERSON
+Nandutu L-PERSON
+
+Natindi U-PERSON
+
+Chris B-PERSON
+Baryomunsi L-PERSON
+
+Miria U-PERSON
+
+Wangwanyi U-PERSON
+iwase U-LOCATION
+
+Grace B-PERSON
+Watuwa L-PERSON
+Anthony B-PERSON
+Watuwa L-PERSON
+
+Brenda B-PERSON
+Fasie L-PERSON
+I B-LOCATION
+South I-LOCATION
+Africa L-LOCATION
+
+nyantsa B-LOCATION
+victoria L-LOCATION
+Wanyama U-PERSON
+
+Uwera U-PERSON
+Rwanda U-LOCATION
+sawa B-DATE
+tsye I-DATE
+kumuusi I-DATE
+ingolobe L-DATE
+
+Nandutu B-PERSON
+Robina L-PERSON
+Bakristayo U-NORP
+St B-ORG
+Mark L-ORG
+sabiti U-DATE
+
+Muhoozi U-PERSON
+kainerugaba U-PERSON
+2023 U-DATE
+Museveni U-PERSON
+Muhoozi U-PERSON
+
+Nelson B-PERSON
+Mandela L-PERSON
+mwiko B-DATE
+1996 L-DATE
+Zenani U-PERSON
+Zindziswa U-PERSON
+
+Uganda B-ORG
+premier I-ORG
+league L-ORG
+Simbwa U-PERSON
+
+Wameli B-PERSON
+Anthony L-PERSON
+
+Milton B-PERSON
+Obote L-PERSON
+Linambo B-LOCATION
+lya I-LOCATION
+Uganda L-LOCATION
+
+Nambuya U-PERSON
+
+Museveni U-PERSON
+
+Richard B-PERSON
+Opio L-PERSON
+kimyesi B-DATE
+kitaru L-DATE
+
+Mulwana U-PERSON
+
+Amin U-PERSON
+
+Tsekoko U-PERSON
+
+Clarke U-PERSON
+Uganda U-LOCATION
+
+Winnie B-PERSON
+Byanyima L-PERSON
+Dr B-PERSON
+Kizza I-PERSON
+Besigye L-PERSON
+
+Uganda U-LOCATION
+Mujasi U-PERSON
+
+Peruth B-PERSON
+Chemutai L-PERSON
+Dorcas U-PERSON
+Bukwo U-LOCATION
+Uganda U-LOCATION
+
+Ssenge B-PERSON
+Grace I-PERSON
+Namukhura L-PERSON
+district B-LOCATION
+ye I-LOCATION
+Namisindwa L-LOCATION
+
+Sudhir U-PERSON
+
+kukhu B-PERSON
+Maliza L-PERSON
+
+Musikoma U-PERSON
+
+Khabuya U-PERSON
+busilamu U-NORP
+
+Pep B-PERSON
+Gurdiola L-PERSON
+
+Masette U-PERSON
+liye U-ORG
+
+Mundeyi U-PERSON
+
+Watuulo U-PERSON
+Mbale U-LOCATION
+
+Museveni U-PERSON
+East B-ORG
+African I-ORG
+federation L-ORG
+
+Mandu U-PERSON
+
+nabwayi B-PERSON
+Kazzimba I-PERSON
+Mugalu L-PERSON
+
+Uganda U-LOCATION
+hon B-PERSON
+Lutamaguzi L-PERSON
+
+Uganda U-LOCATION
+Makubuya U-PERSON
+
+Musibala U-PERSON
+
+Martin B-PERSON
+Washiwala L-PERSON
+lilekelo B-ORG
+lya I-ORG
+Nabuyonga L-ORG
+
+Massa U-PERSON
+
+Andrew B-PERSON
+Rugasira L-PERSON
+kumwiko B-DATE
+2012 L-DATE
+
+Sulaiman B-PERSON
+Kigundu L-PERSON
+
+Aidah U-PERSON
+
+Yoona B-PERSON
+Katonene L-PERSON
+Mengo U-LOCATION
+
+Lukwago B-PERSON
+Erias L-PERSON
+DP U-NORP
+FDC U-NORP
+
+Barrack B-PERSON
+Mukiibi L-PERSON
+st B-ORG
+Lawrence L-ORG
+
+Garang U-PERSON
+
+Mushikori U-PERSON
+umukuka U-USERID
+Canada U-LOCATION
+
+Tarsis B-PERSON
+Kabwegyere L-PERSON
+
+Kunikina? U-PERSON
+
+Nandaah B-PERSON
+John L-PERSON
+
+Gaetano U-PERSON
+Capital B-ORG
+FM L-ORG
+
+Museveni U-PERSON
+
+Ssemusu U-PERSON
+Nyanzi U-PERSON
+
+Wavamuno U-PERSON
+Mumwesi B-DATE
+kwe I-DATE
+khane I-DATE
+2023 L-DATE
+
+Maliza U-PERSON
+
+Nagginda U-PERSON
+Nagginda U-PERSON
+
+Mujasi U-PERSON
+Museveni U-PERSON
+
+Watuwa U-PERSON
+
+Erias B-PERSON
+Lukwago L-PERSON
+Zawede B-PERSON
+Lubwama I-PERSON
+Lukwago I-PERSON
+Nnalongo L-PERSON
+
+Wakikona U-PERSON
+
+Priscillah B-PERSON
+Nabuduwa L-PERSON
+
+John B-PERSON
+Musinguzi L-PERSON
+Uganda? U-LOCATION
+sitongole B-ORG
+sisolosa I-ORG
+kumusolo L-ORG
+
+Mafabi U-PERSON
+
+Bakanda U-NORP
+Kabaka B-PERSON
+Mwenda I-PERSON
+Mutebi I-PERSON
+Ronald L-PERSON
+
+Kitarya B-PERSON
+Joseph L-PERSON
+
+Mulyagonja U-PERSON
+
+Uganda U-LOCATION
+Engola B-PERSON
+charles L-PERSON
+
+Onen? U-PERSON
+Uganda U-LOCATION
+
+Nabutono U-PERSON
+
+Kantono U-PERSON
+
+Apollo B-PERSON
+Nyagamahe L-PERSON
+
+Livingstone B-PERSON
+Mpalanyi I-PERSON
+Nkoyoyo L-PERSON
+Orombi U-PERSON
+
+Ssirimba B-LOCATION
+Kampala L-LOCATION
+
+Oyite B-PERSON
+Ojok L-PERSON
+
+Police U-ORG
+Namugongo U-LOCATION
+Luke B-PERSON
+Owoyesigyire L-PERSON
+
+Peruth B-PERSON
+Chemutai L-PERSON
+Dorcas B-PERSON
+Nzikuru L-PERSON
+
+Wavamuno U-PERSON
+Maureen B-PERSON
+wavamuno L-PERSON
+
+Kipsiro U-PERSON
+Kapchorwa U-LOCATION
+
+Chris B-PERSON
+Baryomunsi L-PERSON
+minista B-USERID
+ukanikhila I-USERID
+linambo I-USERID
+ni I-USERID
+khu I-USERID
+likambila L-USERID
+
+palamenti U-ORG
+Lukoma U-PERSON
+bakhabisa U-NORP
+
+Hassan U-PERSON
+Kenya U-LOCATION
+
+Nathan B-PERSON
+Etengu L-PERSON
+New B-ORG
+Vision L-ORG
+ibwamanyanga U-LOCATION
+
+Masette B-PERSON
+Kuuya L-PERSON
+
+Peruth B-PERSON
+Chemutai L-PERSON
+Dorcas U-PERSON
+Bukwo U-LOCATION
+Uganda U-LOCATION
+
+Uganda U-LOCATION
+Makofi B-PERSON
+kuloba L-PERSON
+
+Andrew B-PERSON
+Felix I-PERSON
+Kawesa L-PERSON
+Kayhura U-PERSON
+Police U-ORG
+mwiko B-DATE
+2017 L-DATE
+
+mbale U-LOCATION
+Umwaule B-PERSON
+Mukhofa L-PERSON
+
+John B-PERSON
+Musinguzi L-PERSON
+Uganda? U-LOCATION
+sitongole B-ORG
+sisolosa I-ORG
+kumusolo L-ORG
+
+Patricia U-PERSON
+
+Gorreti B-PERSON
+Mutonyi L-PERSON
+bamasaaba U-NORP
+
+Apollo B-PERSON
+Nyagamahe L-PERSON
+Aponye B-ORG
+Hotel L-ORG
+Kampala U-LOCATION
+
+Naduli U-PERSON
+
+Nambuya U-PERSON
+
+Cecilia B-PERSON
+Ogwal L-PERSON
+Uganda? U-LOCATION
+
+Orombi U-PERSON
+
+Welle? U-PERSON
+Umwaule B-PERSON
+Shisa L-PERSON
+
+Odeke U-PERSON
+Namakwekwe U-LOCATION
+
+Skinner U-PERSON
+Watoto B-ORG
+church L-ORG
+sirimba B-LOCATION
+Kampala L-LOCATION
+
+Amin U-PERSON
+Obote U-PERSON
+Museveni U-PERSON
+
+Rufurubi U-PERSON
+
+Ssali B-PERSON
+Geraldine L-PERSON
+NSSF U-ORG
+
+Tumwine U-PERSON
+kenya U-LOCATION
+
+sylvia B-PERSON
+Nairuba L-PERSON
+
+Aponye U-PERSON
+
+Naluwende U-PERSON
+
+Hajji B-PERSON
+Hussein I-PERSON
+Kyanjo L-PERSON
+Bukomansimbi U-LOCATION
+
+Richard B-PERSON
+Ssetuba L-PERSON
+
+Masantsa U-PERSON
+Musenero? U-PERSON
+
+Wegoye U-PERSON
+Catherine B-PERSON
+Wegoye L-PERSON
+
+Betty B-PERSON
+Among L-PERSON
+
